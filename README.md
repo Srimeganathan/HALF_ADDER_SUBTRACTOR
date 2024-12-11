@@ -1,4 +1,3 @@
-![ex-3 op 2](https://github.com/user-attachments/assets/6061501c-2cd8-4a8f-9f2a-3f5dd10a1d66)![ex-3 op 1](https://github.com/user-attachments/assets/8fa1e505-0f09-4f7d-8718-93e9ff52686c)# HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
@@ -18,8 +17,6 @@ Half adder is a combinational circuit that performs simple addition of two binar
 
 Sum = A’B+AB’ =A ⊕ B Carry = AB
 
-![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/bd4a0b2c-cdbc-4184-ab08-81578f121e1f)
-
 Figure -01 HALF ADDER
 
 **Half Subtractor**
@@ -29,7 +26,7 @@ The half-subtractor is a combinational circuit which is used to perform subtract
 Diff = A’B+AB’ =A ⊕ B
 Borrow = A’B
 
- ![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/d76b099c-513f-4e7c-843a-e2fd028a531a)
+
 
 Figure -02 HALF Subtractor
 
@@ -67,10 +64,10 @@ endmodule
 Developed by: RegisterNumber:*/
 
 **RTL Schematic**
-![ex-3 logic 1](https://github.com/user-attachments/assets/9cd5b007-4ef5-4a7f-98b5-27ac8b493007)
-![ex-3 logic 2](https://github.com/user-attachments/assets/64fd2a3a-b5ba-4b14-ba29-f71b245e346f)
+![ae2e99a5-e33e-4e47-891c-767e4cfba03c](https://github.com/user-attachments/assets/a00f50e7-29bb-4ea0-9333-fef3907bba7c)
+![b93fa2ff-6601-4400-a3b5-46f8f3b48dbe](https://github.com/user-attachments/assets/8689f060-7c83-4669-b079-c3de47349e9e)
 
 **Output/TIMING Waveform**
-![ex-3 op 1](https://github.com/user-attachments/assets/36891d41-112e-43c5-ac33-43075bc9e09f)
-![ex-3 op 2](https://github.com/user-attachments/assets/37c6b358-b9ce-4be7-b5da-538cbbdd13a5)
+![d4fe0d23-0998-4bbe-8286-3808ee5511c2](https://github.com/user-attachments/assets/c9ccd8a2-7ee0-4c4d-8719-c6b1c486a20d)
+
 **Result:**
